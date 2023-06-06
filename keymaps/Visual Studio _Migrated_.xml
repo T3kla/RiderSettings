@@ -1,0 +1,25 @@
+<keymap version="1" name="Visual Studio (Migrated)" parent="Visual Studio 2022">
+  <action id="EditorDeleteLine">
+    <keyboard-shortcut first-keystroke="ctrl space" />
+  </action>
+  <action id="FileChooser.TogglePathBar" />
+  <action id="GotoFile">
+    <keyboard-shortcut first-keystroke="ctrl p" />
+  </action>
+  <action id="GotoLine" />
+  <action id="GotoRow" />
+  <action id="GotoSymbol">
+    <keyboard-shortcut first-keystroke="ctrl g" />
+  </action>
+  <action id="Print" />
+  <action id="SearchEverywhere">
+    <keyboard-shortcut first-keystroke="ctrl t" />
+  </action>
+  <action id="SelectAllOccurrences">
+    <keyboard-shortcut first-keystroke="shift alt semicolon" />
+    <keyboard-shortcut first-keystroke="shift ctrl l" />
+  </action>
+  <action id="ShowSettings">
+    <keyboard-shortcut first-keystroke="ctrl comma" />
+  </action>
+</keymap>
