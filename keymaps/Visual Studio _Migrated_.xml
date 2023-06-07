@@ -1,8 +1,20 @@
 <keymap version="1" name="Visual Studio (Migrated)" parent="Visual Studio 2022">
+  <action id="Back">
+    <mouse-shortcut keystroke="button4" />
+    <keyboard-shortcut first-keystroke="alt left" />
+  </action>
+  <action id="CodeCompletion">
+    <keyboard-shortcut first-keystroke="ctrl space" />
+    <keyboard-shortcut first-keystroke="ctrl j" />
+  </action>
   <action id="EditorDeleteLine">
     <keyboard-shortcut first-keystroke="ctrl space" />
   </action>
   <action id="FileChooser.TogglePathBar" />
+  <action id="Forward">
+    <mouse-shortcut keystroke="button5" />
+    <keyboard-shortcut first-keystroke="alt right" />
+  </action>
   <action id="GotoFile">
     <keyboard-shortcut first-keystroke="ctrl p" />
   </action>
