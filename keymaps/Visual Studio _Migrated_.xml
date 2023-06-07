@@ -1,8 +1,23 @@
 <keymap version="1" name="Visual Studio (Migrated)" parent="Visual Studio 2022">
+  <action id="Back">
+    <mouse-shortcut keystroke="button4" />
+    <keyboard-shortcut first-keystroke="alt left" />
+  </action>
+  <action id="CodeCompletion">
+    <keyboard-shortcut first-keystroke="ctrl space" />
+    <keyboard-shortcut first-keystroke="ctrl j" />
+  </action>
+  <action id="Debug">
+    <keyboard-shortcut first-keystroke="f5" />
+  </action>
   <action id="EditorDeleteLine">
     <keyboard-shortcut first-keystroke="ctrl space" />
   </action>
   <action id="FileChooser.TogglePathBar" />
+  <action id="Forward">
+    <mouse-shortcut keystroke="button5" />
+    <keyboard-shortcut first-keystroke="alt right" />
+  </action>
   <action id="GotoFile">
     <keyboard-shortcut first-keystroke="ctrl p" />
   </action>
@@ -11,7 +26,11 @@
   <action id="GotoSymbol">
     <keyboard-shortcut first-keystroke="ctrl g" />
   </action>
+  <action id="Graph.RouteEdges" />
   <action id="Print" />
+  <action id="Resume">
+    <keyboard-shortcut first-keystroke="f9" />
+  </action>
   <action id="SearchEverywhere">
     <keyboard-shortcut first-keystroke="ctrl t" />
   </action>
@@ -22,4 +41,5 @@
   <action id="ShowSettings">
     <keyboard-shortcut first-keystroke="ctrl comma" />
   </action>
+  <action id="ToggleLineBreakpoint" />
 </keymap>
