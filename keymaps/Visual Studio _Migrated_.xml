@@ -7,6 +7,9 @@
     <keyboard-shortcut first-keystroke="ctrl space" />
     <keyboard-shortcut first-keystroke="ctrl j" />
   </action>
+  <action id="Debug">
+    <keyboard-shortcut first-keystroke="f5" />
+  </action>
   <action id="EditorDeleteLine">
     <keyboard-shortcut first-keystroke="ctrl space" />
   </action>
@@ -23,7 +26,11 @@
   <action id="GotoSymbol">
     <keyboard-shortcut first-keystroke="ctrl g" />
   </action>
+  <action id="Graph.RouteEdges" />
   <action id="Print" />
+  <action id="Resume">
+    <keyboard-shortcut first-keystroke="f9" />
+  </action>
   <action id="SearchEverywhere">
     <keyboard-shortcut first-keystroke="ctrl t" />
   </action>
@@ -34,4 +41,5 @@
   <action id="ShowSettings">
     <keyboard-shortcut first-keystroke="ctrl comma" />
   </action>
+  <action id="ToggleLineBreakpoint" />
 </keymap>
