@@ -1,0 +1,9 @@
+<application>
+  <component name="CodeGlance Pro">
+    <option name="hideOriginalScrollBar" value="true" />
+    <option name="locked" value="true" />
+    <option name="pixelsPerLine" value="3" />
+    <option name="showOtherFullLineHighlight" value="true" />
+    <option name="width" value="80" />
+  </component>
+</application>
