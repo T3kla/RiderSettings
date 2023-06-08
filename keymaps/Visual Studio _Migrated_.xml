@@ -28,6 +28,9 @@
   </action>
   <action id="Graph.RouteEdges" />
   <action id="Print" />
+  <action id="ReformatCode">
+    <keyboard-shortcut first-keystroke="alt m" />
+  </action>
   <action id="Resume">
     <keyboard-shortcut first-keystroke="f9" />
   </action>
@@ -41,4 +44,5 @@
     <keyboard-shortcut first-keystroke="ctrl comma" />
   </action>
   <action id="ToggleLineBreakpoint" />
+  <action id="Vcs.ToggleAmendCommitMode" />
 </keymap>
