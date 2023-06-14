@@ -7,6 +7,9 @@
     <keyboard-shortcut first-keystroke="ctrl space" />
     <keyboard-shortcut first-keystroke="ctrl j" />
   </action>
+  <action id="CommentByLineComment">
+    <keyboard-shortcut first-keystroke="ctrl #10000c7" />
+  </action>
   <action id="Debug">
     <keyboard-shortcut first-keystroke="f5" />
   </action>
